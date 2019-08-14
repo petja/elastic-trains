@@ -1,0 +1,16 @@
+{
+  "name": "elastic-trains",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "petja <hello@petja.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "nodemon": "^1.19.1",
+    "parcel": "^1.12.3",
+    "typescript": "^3.5.3"
+  }
+}
